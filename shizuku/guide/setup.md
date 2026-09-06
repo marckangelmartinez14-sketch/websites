@@ -1,4 +1,5 @@
-# User manual
+Starting with wireless adb in port 42095...
+
 
 [[toc]]
 
